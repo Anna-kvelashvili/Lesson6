@@ -22,7 +22,11 @@
     width: 760px;
     margin-top: 16px;
     margin-left: 288px;
+    color: #5F6980;
+
 }
+
+
 
 /* start content */
 .content-box {width: 1336px;
@@ -86,3 +90,90 @@ margin-top: 48px;}
 .box-8 {width: 310px;
     height: 430px;margin-top: 48px;}
 
+
+
+
+/* start footer */
+.footer {
+    background-color: #53535354;
+    width: 1654px;
+    height: 512px;
+    margin-top: 48px;
+}
+.row {
+    width: 1306px;
+    height: 223px;
+    padding:108px 184px 130px 57px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+.left {
+    width: 318.05px;
+    height: 221px;
+    margin-right: 144.95px;
+}
+.last-image {
+    padding-bottom: 32px;
+}
+.last-paragraph {
+    width: 306.05px;
+    height: 73px;
+    color: #535353;
+}
+.info-2 {
+    width: 104px;
+    padding-right: 16px;
+    vertical-align:middle;
+    margin-bottom: 28px;
+/* ვერ ვხვდები რატომ არ მაკეთებინესბ 28px იან დაშორებას */
+}
+.navigation {
+    width: 136px;
+    height: 223px;
+    margin-right: 254px;
+}
+.page {
+    font-size:20px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    padding-bottom: 71px;
+}
+.nav-li {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #535353;
+    padding-bottom: 15px;
+}
+.middle-2 {
+    width: 199px;
+    height: 223px;
+}
+.nav-li-item {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #535353;
+    height: 48px;
+    width: 199px;
+}
+.right {
+    width: 107px;
+    height: 127.45px;
+    margin-left:147px;
+}
+.english-box {
+    background-color: #054A68;
+    width: 80px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.english {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    color: #FFFFFF;
+}
