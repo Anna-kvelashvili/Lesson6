@@ -1,0 +1,19 @@
+.header {
+    width: 1336px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 80px 52px 0 52px;
+  font-family: 'Inter', sans-serif;
+}
+.team {font-size: 16px;
+}
+.clonify {
+    font-size: 54px;
+}
+.paragraph {
+    font-size: 20px;
+    font-weight: 400;
+    width: 760px;
+    text-align: center;
+}
